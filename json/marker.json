@@ -1,0 +1,194 @@
+[
+  {
+    "id": "f1",
+    "nom": "Parque Pedro Ruiz Gallo",
+    "distri": "Lince",
+    "lat": -12.082495,
+    "lon": -77.031055,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f2",
+    "nom": "Parque Mariscal Castilla",
+    "distri": "Lince",
+    "lat": -12.088151,
+    "lon": -77.040452,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f3",
+    "nom": "Parque Mariscal Castilla",
+    "distri": "Lince",
+    "lat": -12.08806,
+    "lon": -77.041428,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f4",
+    "nom": "Parque Elías Aguirre",
+    "distri": "Lince",
+    "lat": -12.089883,
+    "lon": -77.025691,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f5",
+    "nom": "Parque Clemente Revilla",
+    "distri": "Lince",
+    "lat": -12.090027,
+    "lon": -77.027829,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f6",
+    "nom": "Parque Manhattan",
+    "distri": "Comas",
+    "lat": -11.902714,
+    "lon": -77.039715,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f7",
+    "nom": "Parque Primavera",
+    "distri": "Comas",
+    "lat": -11.955889,
+    "lon": -77.043785,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f8",
+    "nom": "Playa Las Cascadas y Barranquito",
+    "distri": "Barranco",
+    "lat": -12.14247,
+    "lon": -77.0268,
+    "tipo": "Playa"
+  },
+  {
+    "id": "f9",
+    "nom": "Playa Barranquito",
+    "distri": "Barranco",
+    "lat": -12.144694,
+    "lon": -77.025727,
+    "tipo": "Playa"
+  },
+  {
+    "id": "f10",
+    "nom": "Playa Baños de Barranco",
+    "distri": "Barranco",
+    "lat": -12.148616,
+    "lon": -77.024761,
+    "tipo": "Playa"
+  },
+  {
+    "id": "f11",
+    "nom": "Playa Los Yuyos",
+    "distri": "Barranco",
+    "lat": -12.153242,
+    "lon": -77.025083,
+    "tipo": "Playa"
+  },
+  {
+    "id": "f12",
+    "nom": "Playa Los Yuyos",
+    "distri": "Barranco",
+    "lat": -12.154668,
+    "lon": -77.025695,
+    "tipo": "Playa"
+  },
+  {
+    "id": "f13",
+    "nom": "Playa Las Sombrillas",
+    "distri": "Barranco",
+    "lat": -12.156452,
+    "lon": -77.026236,
+    "tipo": "Playa"
+  },
+  {
+    "id": "f14",
+    "nom": "Estadio Unión",
+    "distri": "Barranco",
+    "lat": -12.153706,
+    "lon": -77.017956,
+    "tipo": "Estadio"
+  },
+  {
+    "id": "f15",
+    "nom": "Parque Confraternidad o La Lagunilla",
+    "distri": "Barranco",
+    "lat": -12.136714,
+    "lon": -77.023116,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f16",
+    "nom": "Alameda Los Incas",
+    "distri": "Independencia",
+    "lat": -11.984875,
+    "lon": -77.057535,
+    "tipo": "Alameda"
+  },
+  {
+    "id": "f17",
+    "nom": "Estadio Sandro Baylón",
+    "distri": "Independencia",
+    "lat": -11.970972,
+    "lon": -77.044753,
+    "tipo": "Estadio"
+  },
+  {
+    "id": "f18",
+    "nom": "Estadio Los Incas",
+    "distri": "Independencia",
+    "lat": -11.978641,
+    "lon": -77.051948,
+    "tipo": "Estadio"
+  },
+  {
+    "id": "f19",
+    "nom": "Parque Zonal Piedras Gordas",
+    "distri": "Ancón",
+    "lat": -11.805926,
+    "lon": -77.122694,
+    "tipo": "Parque Zonal"
+  },
+  {
+    "id": "f20",
+    "nom": "Parque Campo de Marte",
+    "distri": "Jesús María",
+    "lat": -12.067355,
+    "lon": -77.040226,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f21",
+    "nom": "Parque de los Próceres de la Independencia",
+    "distri": "Jesús María",
+    "lat": -12.08275,
+    "lon": -77.044916,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f22",
+    "nom": "Parque Cánepa - Subsuelo",
+    "distri": "La Victoria",
+    "lat": -12.064867,
+    "lon": -77.01501,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f23",
+    "nom": "Parque Cánepa - Superficie",
+    "distri": "La Victoria",
+    "lat": -12.064867,
+    "lon": -77.01501,
+    "tipo": "Parque"
+  },
+  {
+    "id": "f24",
+    "nom": "Parque Andrés Avelino Cáceres",
+    "distri": "San Isidro",
+    "lat": -12.093736,
+    "lon": -77.025889,
+    "tipo": "Parque"
+  }
+]

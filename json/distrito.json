@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Todos",
+    "cantespacio": 24,
+    "lat": -11.9667159,
+    "lng": -77.0016962,
+    "zom": 10,
+    "eje": 560925.00,
+    "decla": 20996.21,
+    "dese": 49709.98,
+    "ries": 6195.00,
+    "cul": 9000.00
+  },
+  {
+    "name": "Barranco",
+    "cantespacio": 8,
+    "lat": -12.1450594,
+    "lng": -77.0244882,
+    "zom": 14,
+    "eje": 79355.54,
+    "decla": 16376.00,
+    "dese": 4929.98,
+    "ries": 0,
+    "cul": 0
+  },
+  {
+    "name": "Comas",
+    "cantespacio": 2,
+    "lat": -11.9277028,
+    "lng": -77.046999,
+    "zom": 13,
+    "eje": 2469.00,
+    "decla": 0,
+    "dese": 7667.00,
+    "ries": 0,
+    "cul": 0
+  },
+  {
+    "name": "Independencia",
+    "cantespacio": 3,
+    "lat": -11.9934435,
+    "lng": -77.0675209,
+    "zom": 13,
+    "eje": 24981.26,
+    "decla": 0,
+    "dese": 37113.00,
+    "ries": 0,
+    "cul": 0
+  },
+  {
+    "name": "Jesús María",
+    "cantespacio": 2,
+    "lat": -12.0677481,
+    "lng": -77.0642887,
+    "zom": 14,
+    "eje": 1035.00,
+    "decla": 0,
+    "dese": 0,
+    "ries": 0,
+    "cul": 9000.00
+  },
+  {
+    "name": "La Victoria",
+    "cantespacio": 2,
+    "lat": -12.0658795,
+    "lng": -77.0150046,
+    "zom": 15,
+    "eje": 5580.00,
+    "decla": 0,
+    "dese": 0,
+    "ries": 0,
+    "cul": 0
+  },
+  {
+    "name": "Lince",
+    "cantespacio": 5,
+    "lat": -12.0828105,
+    "lng": -77.0284863,
+    "zom": 15,
+    "eje": 4968.20,
+    "decla": 4620.21,
+    "dese": 0,
+    "ries": 6195.00,
+    "cul": 0
+  },
+  {
+    "name": "Ancón",
+    "cantespacio": 1,
+    "lat": -11.8034667,
+    "lng": -77.1305506,
+    "zom": 14,
+    "eje": 430536.00,
+    "decla": 0,
+    "dese": 0,
+    "ries": 0,
+    "cul": 0
+  },
+  {
+    "name": "San Isidro",
+    "cantespacio": 1,
+    "lat": -12.0937937,
+    "lng": -77.0256905,
+    "zom": 17,
+    "eje": 12000.00,
+    "decla": 0,
+    "dese": 0,
+    "ries": 0,
+    "cul": 0
+  }
+]

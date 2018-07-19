@@ -1,0 +1,236 @@
+body{
+  font-size: 14px;
+  background: #ccc;
+}
+.contienemap{
+  width: 100%;
+    height: 100vh;
+    margin: 0;
+    /* border-radius: 5px; */
+    /* border: 1px solid #181818; */
+    position: relative;
+    display: table;
+    content: " ";
+    padding: 10vh 5vh;
+    background: url('../images/luistramo.png') repeat;
+}
+.contienemap > .contieneselect{
+  width: 100%;
+  height: 70px;
+}
+.contienemap > .contieneselect > div{
+  float: left;
+  width: 25%;
+  margin-right: 10px;
+  position: relative;
+}
+.contienemap > .contieneselect > div > select{
+  width: 100%;
+  height: 60px;
+  background: #0004;
+  border: 3px solid #0008;
+  font-size: 20px;
+  text-align: left;
+  color: #fdfb88;
+  padding: 5px 35px 5px 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.contienemap > .contieneselect > div > i{
+  position: absolute;
+  right: 15px;
+  font-size: 40px;
+  top: 10px;
+  color: #fdfb88;
+  z-index: 1;
+}
+.bs-caret{
+  display: none;
+}
+ .select2, .select3{
+   display: none;
+ }
+.bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){
+  width: 100%;
+  height: 60px;
+}
+.bootstrap-select>.dropdown-toggle{
+  height: 100%;
+  width: 100%;
+  background: #0004;
+  border:3px solid #0008;
+}
+.bootstrap-select.btn-group .dropdown-toggle .filter-option{
+  display: inline-block;
+overflow: hidden;
+width: 100%;
+font-size: 30px;
+text-align: left;
+color: #fdfb88;
+}
+.btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default{
+  background: #0004;
+  border:3px solid #0008;
+}
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover{
+  background: #0004;
+  border:3px solid #0008;
+}
+.dropdown-menu{
+  background: #0009;
+  border:3px solid #0008;
+}
+.bootstrap-select.btn-group .dropdown-menu li a{
+  color: #fff;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+  background: #000000b5;
+  color: #fdfb88;
+}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
+  background: #000000b5;
+  color: #fdfb88;
+}
+
+.contienemap .map{
+  background: #fff;
+  height: calc(90% - 70px);
+  padding: 0px;
+  margin-top: 4%;
+  border-radius: 5px;
+}
+.contienemap .map > #map{
+  border-radius: 5px;
+  border: 4px solid #000;
+}
+.contienemap .detallemap{
+  margin-top: 3%;
+}
+.contienemap .detallemap > h3{
+  color: #fdfb88;
+  margin-right: 40px;
+  font-weight: bold;
+}
+.contienemap .detallemap .detatexto{
+  height: 40vh;
+  text-align: right;
+  padding-top: 20px;
+  color: #fdfb88;
+  padding-bottom: 20px;
+}
+.contienemap .detallemap .detatexto .estado{
+  height: calc(20% - 0px);
+  padding-top: 5px;
+}
+.contienemap .detallemap .detabarra{
+  height: 40vh;
+  background:#0005;
+  border-radius: 5px;
+  border: 2px solid #0006;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.contienemap .detallemap .detabarra .barra{
+  height: calc(20% - 0px);
+  padding: 10px 0px;
+}
+.contienemap .detallemap .detabarra .barra .interno{
+  background: #3CBD5E;
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.contienemap .detallemap .detabarra .barra .interno1{
+  background: #30994C;
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.contienemap .detallemap .detabarra .barra .interno2{
+  background: #25753B;
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.contienemap .detallemap .detabarra .barra .interno3{
+  background: #133B1D;
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.contienemap .detallemap .detabarra .barra .interno4{
+  background: #0C2613;
+  height: 100%;
+  border-radius: 5px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.contienemap .detallemap .cajatotal{
+  padding: 20px;
+  text-align: center;
+  color: #fdfb88;
+  display: table;
+  width: 100%;
+}
+.detallado{
+  position: absolute;
+  width: auto;
+  cursor: pointer;
+  border-radius: 5px;
+  height: auto;
+  background: #ccc;
+  bottom: 5vh;
+  right: 5%;
+
+}
+#detadistri{
+  display: none;
+}
+.detallado > i{
+  font-size: 25px;
+  color: #000;
+  padding: 10px;
+}
+.pantalladeta{
+  background: url('../images/luistramo.png') repeat;
+  height: calc(95vh - 120px);
+  bottom: 0px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  display: none;
+}
+.pantalladeta .contienedetaproyect{
+  width: 95%;
+  margin: 0 auto;
+  height: 100%;
+}
+.pantalladeta .contienedetaproyect .galery{
+  height: auto;
+  padding: 0;
+}
+.pantalladeta .contienedetaproyect .detapro{
+  height: 70%;
+  padding: 10px 20px;
+}
+.pantalladeta .contienedetaproyect .detapro > h2{
+  color: #e7de7d;
+}
+.pantalladeta .contienedetaproyect .detapro > p{
+  font-size: 20px;
+  color: #e7de7d;
+}
+.pantalladeta .contienedetaproyect .galery .leye{
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  border-radius: 5px;
+  background: #000;
+  padding: 5px;
+  font-size: 18px;
+  color: #fff;
+}
