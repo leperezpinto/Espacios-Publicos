@@ -6,7 +6,7 @@ var valortotal = 600000;
 var valortotal2 = 80000;
 var porcetotal = 100;
 var sumatotal;
-$.getJSON('/json/distrito.json', function(data){
+$.getJSON('json/distrito.json', function(data){
     distritos=data;
     for (var i = 0; i < distritos.length; i++) {
       $('#aquidist').append('<option>'+distritos[i]['name']+'</option>');
@@ -136,7 +136,7 @@ $.getJSON('/json/distrito.json', function(data){
         }
         $('#aquiarea').empty();
         $('#aquiproye').empty();
-        $.getJSON('/json/datasef.json', function(data){
+        $.getJSON('json/datasef.json', function(data){
           var distri = $('#aquidist option:selected').text();
           var datarea =[];
           for (var i = 0; i < data.length; i++) {
@@ -244,7 +244,7 @@ var marker;
     $("#detadistri").click(function(){
       var detadistri1 = $('#aquidist option:selected').text();
       $(' #aquiarea').empty();
-      $.getJSON('/json/datasef.json', function(data){
+      $.getJSON('json/datasef.json', function(data){
         var distri = $('#aquidist option:selected').text();
         var datarea =[];
         for (var i = 0; i < data.length; i++) {
